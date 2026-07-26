@@ -1,0 +1,2 @@
+model,benchmark,n_items,accuracy,acc_ci,accuracy_perturbed,acc_pert_ci,delta,mcnemar_p,flip_correct_to_wrong,flip_wrong_to_correct,mink20_mean,mink20_std,gpu_hours
+Qwen/Qwen2.5-1.5B-Instruct,boolq_bn,500,0.568,"[0.5240,0.6100]",0.558,"[0.5160,0.6000]",-0.01,0.30176,10,5,-3.7673,0.1865,0.56
