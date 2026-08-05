@@ -1,0 +1,41 @@
+{
+  "seed": 20260727,
+  "cap": 2000,
+  "benchmarks": {
+    "boolq_bn": {
+      "hf": "hishab/boolq_bn",
+      "split": "test",
+      "n_total": 729,
+      "n_frozen": 729,
+      "sha256": "841343b8a7723546903b038b5514e4294e07be8429b665da426dc05fc61800e8"
+    },
+    "piqa_bn": {
+      "hf": "hishab/piqa-bn",
+      "split": "validation",
+      "n_total": 1838,
+      "n_frozen": 1838,
+      "sha256": "321bab4234c8046f49a4e55c3cc8e808011240a3c15756ffb1ef8d212a787af3"
+    },
+    "csqa_bn": {
+      "hf": "hishab/commonsenseqa-bn",
+      "split": "validation",
+      "n_total": 1221,
+      "n_frozen": 1221,
+      "sha256": "4a6583d2c5fa51f54a48a8f0318da97f3ed9fe9c5b0eea20b30f82c5476088cc"
+    },
+    "obqa_bn": {
+      "hf": "hishab/openbookqa-bn",
+      "split": "test",
+      "n_total": 497,
+      "n_frozen": 497,
+      "sha256": "8038025e9849c1924f5413839df6871eff1d1c98efbf9583a9eeb679549d7e1e"
+    },
+    "bangla_mmlu": {
+      "hf": "hishab/titulm-bangla-mmlu:all",
+      "split": "test",
+      "n_total": 14750,
+      "n_frozen": 2000,
+      "sha256": "31c0779bf20c6cd10869e03a6be532280057e0fbe64b112f64d6ebfd48d67e2b"
+    }
+  }
+}
