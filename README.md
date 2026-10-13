@@ -2,7 +2,7 @@
 ​
 [![DOI](https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs--10491036%2Fv1-blue)](https://doi.org/10.21203/rs.3.rs-10491036/v1)
 ​
-Official code for the preprint:
+Official code for the paper:
 ​
 > **How Reliable Are Bengali LLM Benchmarks? A Cross-Lingual Contamination and Robustness Audit of Open-Weight Language Models**
 > Md Fahim Faisal Tanha — Research Square (2026)
